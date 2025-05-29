@@ -759,7 +759,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LAGhBREFJiFDSM7uFQbf" name="NOD + MAM + VISTA">
-    <mxGraphModel dx="1248" dy="1472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="1319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1248,8 +1248,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1084" y="97" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1064" y="100" />
-              <mxPoint x="1064" y="334" />
+              <mxPoint x="1068" y="100" />
+              <mxPoint x="1068" y="334" />
               <mxPoint x="869" y="334" />
             </Array>
             <mxPoint x="870" y="382" as="targetPoint" />
@@ -1307,6 +1307,262 @@
               <mxPoint x="1198" y="120" />
               <mxPoint x="1198" y="75" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-28" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="592" y="665" width="389" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry width="389" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-30" value="+" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-29">
+          <mxGeometry width="46" height="17" as="geometry">
+            <mxRectangle width="46" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-31" value="Selectoid +" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-29">
+          <mxGeometry x="46" width="135" height="17" as="geometry">
+            <mxRectangle width="135" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-32" value="G" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-29">
+          <mxGeometry x="181" width="39" height="17" as="geometry">
+            <mxRectangle width="39" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-33" value="NOD - V klidu zavřeno" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-29">
+          <mxGeometry x="220" width="169" height="17" as="geometry">
+            <mxRectangle width="169" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="17" width="389" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-35" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-34">
+          <mxGeometry width="46" height="16" as="geometry">
+            <mxRectangle width="46" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-36" value="Selectoid -" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-34">
+          <mxGeometry x="46" width="135" height="16" as="geometry">
+            <mxRectangle width="135" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-37" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-34">
+          <mxGeometry x="181" width="39" height="16" as="geometry">
+            <mxRectangle width="39" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-38" value="NOD - Společný" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-34">
+          <mxGeometry x="220" width="169" height="16" as="geometry">
+            <mxRectangle width="169" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="33" width="389" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-40" value="A" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-39">
+          <mxGeometry width="46" height="18" as="geometry">
+            <mxRectangle width="46" height="18" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-41" value="Klíč odemyká" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-39">
+          <mxGeometry x="46" width="135" height="18" as="geometry">
+            <mxRectangle width="135" height="18" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-42" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-39">
+          <mxGeometry x="181" width="39" height="18" as="geometry">
+            <mxRectangle width="39" height="18" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-43" value="NOD - V klidu spojeno" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-39">
+          <mxGeometry x="220" width="169" height="18" as="geometry">
+            <mxRectangle width="169" height="18" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="51" width="389" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-45" value="B" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-44">
+          <mxGeometry width="46" height="16" as="geometry">
+            <mxRectangle width="46" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-46" value="Klika stisknuta" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-44">
+          <mxGeometry x="46" width="135" height="16" as="geometry">
+            <mxRectangle width="135" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-47" value="T1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-44">
+          <mxGeometry x="181" width="39" height="16" as="geometry">
+            <mxRectangle width="39" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-48" value="TAMP1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-44">
+          <mxGeometry x="220" width="169" height="16" as="geometry">
+            <mxRectangle width="169" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="67" width="389" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-50" value="C" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-49">
+          <mxGeometry width="46" height="16" as="geometry">
+            <mxRectangle width="46" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-51" value="Zamčeno" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-49">
+          <mxGeometry x="46" width="135" height="16" as="geometry">
+            <mxRectangle width="135" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-52" value="T2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-49">
+          <mxGeometry x="181" width="39" height="16" as="geometry">
+            <mxRectangle width="39" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-53" value="TAMP2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-49">
+          <mxGeometry x="220" width="169" height="16" as="geometry">
+            <mxRectangle width="169" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="83" width="389" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-55" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-54">
+          <mxGeometry width="46" height="17" as="geometry">
+            <mxRectangle width="46" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-56" value="Společný" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-54">
+          <mxGeometry x="46" width="135" height="17" as="geometry">
+            <mxRectangle width="135" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-57" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-54">
+          <mxGeometry x="181" width="39" height="17" as="geometry">
+            <mxRectangle width="39" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-58" value="Společný" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-54">
+          <mxGeometry x="220" width="169" height="17" as="geometry">
+            <mxRectangle width="169" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="100" width="389" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-60" value="D" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-59">
+          <mxGeometry width="46" height="17" as="geometry">
+            <mxRectangle width="46" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-61" value="Zavřeno" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-59">
+          <mxGeometry x="46" width="135" height="17" as="geometry">
+            <mxRectangle width="135" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-62" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-59">
+          <mxGeometry x="181" width="39" height="17" as="geometry">
+            <mxRectangle width="39" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-63" value="Společný" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-59">
+          <mxGeometry x="220" width="169" height="17" as="geometry">
+            <mxRectangle width="169" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-64" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="117" width="389" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-65" value="E" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-64">
+          <mxGeometry width="46" height="16" as="geometry">
+            <mxRectangle width="46" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-66" value="Závora zatažena" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-64">
+          <mxGeometry x="46" width="135" height="16" as="geometry">
+            <mxRectangle width="135" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-67" value="H" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-64">
+          <mxGeometry x="181" width="39" height="16" as="geometry">
+            <mxRectangle width="39" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-68" value="Obecný vstup" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-64">
+          <mxGeometry x="220" width="169" height="16" as="geometry">
+            <mxRectangle width="169" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="133" width="389" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-70" value="-" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-69">
+          <mxGeometry width="46" height="20" as="geometry">
+            <mxRectangle width="46" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-71" value="Společný zavřeno" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-69">
+          <mxGeometry x="46" width="135" height="20" as="geometry">
+            <mxRectangle width="135" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-72" value="+" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-69">
+          <mxGeometry x="181" width="39" height="20" as="geometry">
+            <mxRectangle width="39" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-73" value="EPS +" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-69">
+          <mxGeometry x="220" width="169" height="20" as="geometry">
+            <mxRectangle width="169" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="153" width="389" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-75" value="F" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-74">
+          <mxGeometry width="46" height="16" as="geometry">
+            <mxRectangle width="46" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-76" value="Zavřeno" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-74">
+          <mxGeometry x="46" width="135" height="16" as="geometry">
+            <mxRectangle width="135" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-77" value="EPS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-74">
+          <mxGeometry x="181" width="39" height="16" as="geometry">
+            <mxRectangle width="39" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-78" value="EPS relé" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-74">
+          <mxGeometry x="220" width="169" height="16" as="geometry">
+            <mxRectangle width="169" height="16" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-28">
+          <mxGeometry y="169" width="389" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-80" value="Kabeláž S4U v průřezu do 0.75mm včetně lisovacích dutinek" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;part=0;noLabel=0;rowspan=1;colspan=4;" vertex="1" parent="TRtwid_PC5-D-kNkp97W-79">
+          <mxGeometry width="389" height="17" as="geometry">
+            <mxRectangle width="46" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;part=0;noLabel=0;" visible="0" vertex="1" parent="TRtwid_PC5-D-kNkp97W-79">
+          <mxGeometry x="46" width="135" height="17" as="geometry">
+            <mxRectangle width="135" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-82" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" visible="0" vertex="1" parent="TRtwid_PC5-D-kNkp97W-79">
+          <mxGeometry x="181" width="39" height="17" as="geometry">
+            <mxRectangle width="39" height="17" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRtwid_PC5-D-kNkp97W-83" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" visible="0" vertex="1" parent="TRtwid_PC5-D-kNkp97W-79">
+          <mxGeometry x="220" width="169" height="17" as="geometry">
+            <mxRectangle width="169" height="17" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
